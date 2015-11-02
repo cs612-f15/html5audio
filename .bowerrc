@@ -1,0 +1,10 @@
+{
+  "directory": "public/components/",
+  "analytics": false,
+  "color" : true,
+  "storage": {
+    "packages" : "~/.bower/packages",
+    "registry" : "~/.bower/registry",
+    "links" : "~/.bower/links"
+  }
+}

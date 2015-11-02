@@ -1,0 +1,21 @@
+{
+  "name": "html5audio",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "cicorias <github@cicoria.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Recorderjs": "https://github.com/mattdiamond/Recorderjs.git"
+  }
+}
